@@ -1,6 +1,9 @@
 !.gitkeep
-
 .DS_Store
+
+.buildpath
+.project
+.settings
 
 # .htaccess
 .htaccess
